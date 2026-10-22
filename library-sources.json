@@ -1,0 +1,858 @@
+[
+ {
+  "id": "kenney-3d-road-tiles",
+  "name": "3d Road Tiles",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/3d-road-tiles",
+  "url": "https://kenney.nl/media/pages/assets/3d-road-tiles/3fbfaa7ec8-1677581262/kenney_3d-road-tiles.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-animated-characters-protagonists",
+  "name": "Animated Characters Protagonists",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/animated-characters-protagonists",
+  "url": "https://kenney.nl/media/pages/assets/animated-characters-protagonists/608191acc4-1774773108/kenney_animated-characters-protagonists.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-animated-characters-retro",
+  "name": "Animated Characters Retro",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/animated-characters-retro",
+  "url": "https://kenney.nl/media/pages/assets/animated-characters-retro/93305a3c49-1774772819/kenney_animated-characters-retro.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-animated-characters-survivors",
+  "name": "Animated Characters Survivors",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/animated-characters-survivors",
+  "url": "https://kenney.nl/media/pages/assets/animated-characters-survivors/27b16052a7-1774772958/kenney_animated-characters-survivors.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-blaster-kit",
+  "name": "Blaster Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/blaster-kit",
+  "url": "https://kenney.nl/media/pages/assets/blaster-kit/261d80a716-1753959510/kenney_blaster-kit_2.1.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-blocky-characters",
+  "name": "Blocky Characters",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/blocky-characters",
+  "url": "https://kenney.nl/media/pages/assets/blocky-characters/8369c0cf30-1749547469/kenney_blocky-characters_20.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-brick-kit",
+  "name": "Brick Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/brick-kit",
+  "url": "https://kenney.nl/media/pages/assets/brick-kit/46a22f3d08-1716981002/kenney_brick-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-building-kit",
+  "name": "Building Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/building-kit",
+  "url": "https://kenney.nl/media/pages/assets/building-kit/0de7aaa492-1743244741/kenney_building-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-car-kit",
+  "name": "Car Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/car-kit",
+  "url": "https://kenney.nl/media/pages/assets/car-kit/1a312ec241-1775131960/kenney_car-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-castle-kit",
+  "name": "Castle Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/castle-kit",
+  "url": "https://kenney.nl/media/pages/assets/castle-kit/a395102d20-1711543616/kenney_castle-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-city-kit-commercial",
+  "name": "City Kit Commercial",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/city-kit-commercial",
+  "url": "https://kenney.nl/media/pages/assets/city-kit-commercial/a742d900eb-1753115042/kenney_city-kit-commercial_2.1.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-city-kit-industrial",
+  "name": "City Kit Industrial",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/city-kit-industrial",
+  "url": "https://kenney.nl/media/pages/assets/city-kit-industrial/0ec35b139d-1788171848/kenney_city-kit-industrial_2.0.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-city-kit-roads",
+  "name": "City Kit Roads",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/city-kit-roads",
+  "url": "https://kenney.nl/media/pages/assets/city-kit-roads/74288c9459-1791628607/kenney_city-kit-roads.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-city-kit-suburban",
+  "name": "City Kit Suburban",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/city-kit-suburban",
+  "url": "https://kenney.nl/media/pages/assets/city-kit-suburban/2c871b7af2-1745479373/kenney_city-kit-suburban_20.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-coaster-kit",
+  "name": "Coaster Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/coaster-kit",
+  "url": "https://kenney.nl/media/pages/assets/coaster-kit/546fdc554f-1731487890/kenney_coaster-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-cube-pets",
+  "name": "Cube Pets",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/cube-pets",
+  "url": "https://kenney.nl/media/pages/assets/cube-pets/44e58e945f-1774520254/kenney_cube-pets_1.0.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-factory-kit",
+  "name": "Factory Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/factory-kit",
+  "url": "https://kenney.nl/media/pages/assets/factory-kit/edaac9d4f6-1777639602/kenney_factory-kit_3.0.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-fantasy-town-kit",
+  "name": "Fantasy Town Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/fantasy-town-kit",
+  "url": "https://kenney.nl/media/pages/assets/fantasy-town-kit/efe948d309-1754222374/kenney_fantasy-town-kit_2.0.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-food-kit",
+  "name": "Food Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/food-kit",
+  "url": "https://kenney.nl/media/pages/assets/food-kit/83086fa91c-1719418518/kenney_food-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-furniture-kit",
+  "name": "Furniture Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/furniture-kit",
+  "url": "https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-graveyard-kit",
+  "name": "Graveyard Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/graveyard-kit",
+  "url": "https://kenney.nl/media/pages/assets/graveyard-kit/ba8d4b4517-1760691807/kenney_graveyard-kit_5.0.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-hexagon-kit",
+  "name": "Hexagon Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/hexagon-kit",
+  "url": "https://kenney.nl/media/pages/assets/hexagon-kit/fd3b63101b-1706007730/kenney_hexagon-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-holiday-kit",
+  "name": "Holiday Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/holiday-kit",
+  "url": "https://kenney.nl/media/pages/assets/holiday-kit/3976a6496a-1733923970/kenney_holiday-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-marble-kit",
+  "name": "Marble Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/marble-kit",
+  "url": "https://kenney.nl/media/pages/assets/marble-kit/56fd69e5ed-1716385090/kenney_marble-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-mini-arcade",
+  "name": "Mini Arcade",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/mini-arcade",
+  "url": "https://kenney.nl/media/pages/assets/mini-arcade/ece1e8f320-1721638600/kenney_mini-arcade.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-mini-arena",
+  "name": "Mini Arena",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/mini-arena",
+  "url": "https://kenney.nl/media/pages/assets/mini-arena/88f977a0cb-1709220730/kenney_mini-arena.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-mini-characters",
+  "name": "Mini Characters",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/mini-characters",
+  "url": "https://kenney.nl/media/pages/assets/mini-characters/bfc7e272b4-1774770718/kenney_mini-characters.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-mini-dungeon",
+  "name": "Mini Dungeon",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/mini-dungeon",
+  "url": "https://kenney.nl/media/pages/assets/mini-dungeon/6cd72dc849-1785314274/kenney_mini-dungeon.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-mini-forest",
+  "name": "Mini Forest",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/mini-forest",
+  "url": "https://kenney.nl/media/pages/assets/mini-forest/44a89aed7f-1784024079/kenney_mini-forest_1.0.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-mini-market",
+  "name": "Mini Market",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/mini-market",
+  "url": "https://kenney.nl/media/pages/assets/mini-market/463f38da51-1729865423/kenney_mini-market.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-mini-skate",
+  "name": "Mini Skate",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/mini-skate",
+  "url": "https://kenney.nl/media/pages/assets/mini-skate/00b0c2b304-1791798670/kenney_mini-skate.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-minigolf-kit",
+  "name": "Minigolf Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/minigolf-kit",
+  "url": "https://kenney.nl/media/pages/assets/minigolf-kit/3ae60d8b01-1741163874/kenney_minigolf-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-modular-buildings",
+  "name": "Modular Buildings",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/modular-buildings",
+  "url": "https://kenney.nl/media/pages/assets/modular-buildings/3253b4219a-1707397411/kenney_modular-buildings.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-modular-cave-kit",
+  "name": "Modular Cave Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/modular-cave-kit",
+  "url": "https://kenney.nl/media/pages/assets/modular-cave-kit/37ec3cb12d-1783667097/kenney_modular-cave-kit_1.0.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-modular-dungeon-kit",
+  "name": "Modular Dungeon Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/modular-dungeon-kit",
+  "url": "https://kenney.nl/media/pages/assets/modular-dungeon-kit/7bed87605b-1771926065/kenney_modular-dungeon-kit_1.0.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-modular-space-kit",
+  "name": "Modular Space Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/modular-space-kit",
+  "url": "https://kenney.nl/media/pages/assets/modular-space-kit/8261428a47-1771146076/kenney_modular-space-kit_1.0.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-nature-kit",
+  "name": "Nature Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/nature-kit",
+  "url": "https://kenney.nl/media/pages/assets/nature-kit/37ac38a37b-1677698939/kenney_nature-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-pirate-kit",
+  "name": "Pirate Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/pirate-kit",
+  "url": "https://kenney.nl/media/pages/assets/pirate-kit/e6d4bb1525-1771333093/kenney_pirate-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-platformer-kit",
+  "name": "Platformer Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/platformer-kit",
+  "url": "https://kenney.nl/media/pages/assets/platformer-kit/1585cf62b4-1775122253/kenney_platformer-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-prototype-kit",
+  "name": "Prototype Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/prototype-kit",
+  "url": "https://kenney.nl/media/pages/assets/prototype-kit/4d3b7073ed-1724832076/kenney_prototype-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-racing-kit",
+  "name": "Racing Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/racing-kit",
+  "url": "https://kenney.nl/media/pages/assets/racing-kit/933b8fd9fd-1677580949/kenney_racing-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-retro-fantasy-kit",
+  "name": "Retro Fantasy Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/retro-fantasy-kit",
+  "url": "https://kenney.nl/media/pages/assets/retro-fantasy-kit/cf3f41b752-1774770658/kenney_retro-fantasy-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-retro-urban-kit",
+  "name": "Retro Urban Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/retro-urban-kit",
+  "url": "https://kenney.nl/media/pages/assets/retro-urban-kit/8314d4db22-1738147509/kenney_retro-urban-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-space-kit",
+  "name": "Space Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/space-kit",
+  "url": "https://kenney.nl/media/pages/assets/space-kit/20874c75ac-1677698978/kenney_space-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-space-station-kit",
+  "name": "Space Station Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/space-station-kit",
+  "url": "https://kenney.nl/media/pages/assets/space-station-kit/6475288f2e-1712749919/kenney_space-station-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-survival-kit",
+  "name": "Survival Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/survival-kit",
+  "url": "https://kenney.nl/media/pages/assets/survival-kit/4065a8185b-1712149243/kenney_survival-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-tower-defense-kit",
+  "name": "Tower Defense Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/tower-defense-kit",
+  "url": "https://kenney.nl/media/pages/assets/tower-defense-kit/a402493eaa-1726471567/kenney_tower-defense-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-toy-car-kit",
+  "name": "Toy Car Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/toy-car-kit",
+  "url": "https://kenney.nl/media/pages/assets/toy-car-kit/42e19cc426-1736346027/kenney_toy-car-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-train-kit",
+  "name": "Train Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/train-kit",
+  "url": "https://kenney.nl/media/pages/assets/train-kit/cf8521d625-1727040883/kenney_train-kit.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kenney-watercraft-kit",
+  "name": "Watercraft Kit",
+  "author": "Kenney",
+  "page": "https://kenney.nl/assets/watercraft-kit",
+  "url": "https://kenney.nl/media/pages/assets/watercraft-kit/a335cfed49-1713519620/kenney_watercraft-pack.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-5-low-poly-animals",
+  "name": "5 Low Poly Animals",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/5-low-poly-animals",
+  "url": "https://opengameart.org/sites/default/files/Animals%20Pack%20by%20Quaternius.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-animated-animales-low-poly",
+  "name": "Animated Animales Low Poly",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/animated-animales-low-poly",
+  "url": "https://opengameart.org/sites/default/files/Animal%20Pack%20Vol.2%20by%20%40Quaternius.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-animated-characters-pack",
+  "name": "Animated Characters Pack",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/animated-characters-pack",
+  "url": "https://opengameart.org/sites/default/files/ultimate_animated_character_pack_by_quaternius.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-animated-fish",
+  "name": "Animated Fish",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/animated-fish",
+  "url": "https://opengameart.org/sites/default/files/Animated%20Fish%20Pack%20by%20%40Quaternius.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-animated-human-low-poly",
+  "name": "Animated Human Low Poly",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/animated-human-low-poly",
+  "url": "https://opengameart.org/sites/default/files/Animated%20Human%20by%20%40Quaternius_0.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-animated-lowpoly-robot",
+  "name": "Animated Lowpoly Robot",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/animated-lowpoly-robot",
+  "url": "https://opengameart.org/sites/default/files/Animated%20Robot%20-%20Oct%202018.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-animated-mech-pack",
+  "name": "Animated Mech Pack",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/animated-mech-pack",
+  "url": "https://opengameart.org/sites/default/files/animated_mech_pack_-_march_2021.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-fantasy-low-poly-trees-and-bushes",
+  "name": "Fantasy Low Poly Trees And Bushes",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/fantasy-low-poly-trees-and-bushes",
+  "url": "https://opengameart.org/sites/default/files/Nature%20model%20pack_1.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-fantasy-props-megakit",
+  "name": "Fantasy Props Megakit",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/fantasy-props-megakit",
+  "url": "https://opengameart.org/sites/default/files/fantasy_props_megakitstandard.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-furniture-low-poly",
+  "name": "Furniture Low Poly",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/furniture-low-poly",
+  "url": "https://opengameart.org/sites/default/files/Furniture%20Pack%20by%20%40Quaternius.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-low-poly-animated-guns",
+  "name": "Low Poly Animated Guns",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/low-poly-animated-guns",
+  "url": "https://opengameart.org/sites/default/files/FPS%20Pack_0.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-low-poly-cars-0",
+  "name": "Low Poly Cars 0",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/low-poly-cars-0",
+  "url": "https://opengameart.org/sites/default/files/CarPack.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-low-poly-desert-assets",
+  "name": "Low Poly Desert Assets",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/low-poly-desert-assets",
+  "url": "https://opengameart.org/sites/default/files/DesertPack.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-low-poly-food-pack",
+  "name": "Low Poly Food Pack",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/low-poly-food-pack",
+  "url": "https://opengameart.org/sites/default/files/ultimate_food_pack_by_quaternius.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-low-poly-furniture-1",
+  "name": "Low Poly Furniture 1",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/low-poly-furniture-1",
+  "url": "https://opengameart.org/sites/default/files/Furniture%20pack%20Vol.2%20by%20Quaternius.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-low-poly-guns",
+  "name": "Low Poly Guns",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/low-poly-guns",
+  "url": "https://opengameart.org/sites/default/files/GunPack%20Vol.1.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-low-poly-guns-pack",
+  "name": "Low Poly Guns Pack",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/low-poly-guns-pack",
+  "url": "https://opengameart.org/sites/default/files/ultimate_gun_pack_by_quaternius.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-low-poly-medieval-weapons",
+  "name": "Low Poly Medieval Weapons",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/low-poly-medieval-weapons",
+  "url": "https://opengameart.org/sites/default/files/MedievalPack.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-low-poly-nature-pack-1",
+  "name": "Low Poly Nature Pack 1",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/low-poly-nature-pack-1",
+  "url": "https://opengameart.org/sites/default/files/ultimate_nature_pack_by_quaternius_1.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-low-poly-pirate-pack",
+  "name": "Low Poly Pirate Pack",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/low-poly-pirate-pack",
+  "url": "https://opengameart.org/sites/default/files/Pirate%20Pack%20by%20Quaternius%20-.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-low-poly-rpg-pack",
+  "name": "Low Poly Rpg Pack",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/low-poly-rpg-pack",
+  "url": "https://opengameart.org/sites/default/files/ultimate_rpg_items_pack_by_quaternius_0.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-low-poly-space-assets",
+  "name": "Low Poly Space Assets",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/low-poly-space-assets",
+  "url": "https://opengameart.org/sites/default/files/SpacePack.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-animated-farm-animal-pack",
+  "name": "Lowpoly Animated Farm Animal Pack",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-animated-farm-animal-pack",
+  "url": "https://opengameart.org/sites/default/files/Farm%20Animals%20by%20%40Quaternius.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-animated-knight",
+  "name": "Lowpoly Animated Knight",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-animated-knight",
+  "url": "https://opengameart.org/sites/default/files/Knight%20Character%20by%20%40Quaternius.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-animated-monsters",
+  "name": "Lowpoly Animated Monsters",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-animated-monsters",
+  "url": "https://opengameart.org/sites/default/files/Animated%20Monster%20Pack%20by%20%40Quaternius.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-buildings",
+  "name": "Lowpoly Buildings",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-buildings",
+  "url": "https://opengameart.org/sites/default/files/Buildings%20pack%20by%20%40Quaternius_0.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-buildings-pack",
+  "name": "Lowpoly Buildings Pack",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-buildings-pack",
+  "url": "https://opengameart.org/sites/default/files/ultimate_textured_building_pack_by_quaternius.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-cars",
+  "name": "Lowpoly Cars",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-cars",
+  "url": "https://opengameart.org/sites/default/files/Car%20Pack.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-crops-pack",
+  "name": "Lowpoly Crops Pack",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-crops-pack",
+  "url": "https://opengameart.org/sites/default/files/nature_crops_pack_by_quaternius.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-house-interior-pack",
+  "name": "Lowpoly House Interior Pack",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-house-interior-pack",
+  "url": "https://opengameart.org/sites/default/files/ultimate_house_interior_pack_-_june_2020.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-medieval-buildings",
+  "name": "Lowpoly Medieval Buildings",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-medieval-buildings",
+  "url": "https://opengameart.org/sites/default/files/Modular%20Medieval%20Pack%20by%20%40Quaternius_0.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-medieval-village-pack",
+  "name": "Lowpoly Medieval Village Pack",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-medieval-village-pack",
+  "url": "https://opengameart.org/sites/default/files/medieval_village_pack_-_dec_2020.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-medieval-weapons",
+  "name": "Lowpoly Medieval Weapons",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-medieval-weapons",
+  "url": "https://opengameart.org/sites/default/files/Medieval%20Weapons%20Pack%20-%20Sept%202018.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-modular-dungeon",
+  "name": "Lowpoly Modular Dungeon",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-modular-dungeon",
+  "url": "https://opengameart.org/sites/default/files/Modular%20Dungeon%20by%20%40Quaternius.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-modular-dungeon-pack",
+  "name": "Lowpoly Modular Dungeon Pack",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-modular-dungeon-pack",
+  "url": "https://opengameart.org/sites/default/files/Updated%20Modular%20Dungeon%20-%20May%202019.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-modular-sci-fi-environments",
+  "name": "Lowpoly Modular Sci Fi Environments",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-modular-sci-fi-environments",
+  "url": "https://opengameart.org/sites/default/files/ultimate_modular_sci-fi_-_feb_2021.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-modular-street-pack",
+  "name": "Lowpoly Modular Street Pack",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-modular-street-pack",
+  "url": "https://opengameart.org/sites/default/files/Street%20Pack%20by%20%40Quaternius.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-nature-pack",
+  "name": "Lowpoly Nature Pack",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-nature-pack",
+  "url": "https://opengameart.org/sites/default/files/Nature%20pack%20vol.3.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-posed-humans",
+  "name": "Lowpoly Posed Humans",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-posed-humans",
+  "url": "https://opengameart.org/sites/default/files/Posed%20Background%20Characters%20by%20%40Quaternius.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-public-transport",
+  "name": "Lowpoly Public Transport",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-public-transport",
+  "url": "https://opengameart.org/sites/default/files/Public%20Transport_0.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-rpg",
+  "name": "Lowpoly Rpg",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-rpg",
+  "url": "https://opengameart.org/sites/default/files/RPG%20Pack.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-rpg-characters",
+  "name": "Lowpoly Rpg Characters",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-rpg-characters",
+  "url": "https://opengameart.org/sites/default/files/rpg_characters_-_nov_2020.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-ship-pack",
+  "name": "Lowpoly Ship Pack",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-ship-pack",
+  "url": "https://opengameart.org/sites/default/files/Ships%20by%20%40Quaternius.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-spaceships-pack",
+  "name": "Lowpoly Spaceships Pack",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-spaceships-pack",
+  "url": "https://opengameart.org/sites/default/files/ultimate_spaceships_-_may_2021.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-steampunk-turrets",
+  "name": "Lowpoly Steampunk Turrets",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-steampunk-turrets",
+  "url": "https://opengameart.org/sites/default/files/turret_pack_by_quaternius.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-survival-pack",
+  "name": "Lowpoly Survival Pack",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-survival-pack",
+  "url": "https://opengameart.org/sites/default/files/survival_pack_-_sept_2020.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-lowpoly-textured-trees",
+  "name": "Lowpoly Textured Trees",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/lowpoly-textured-trees",
+  "url": "https://opengameart.org/sites/default/files/textured_stylized_trees_-_may_2020.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-medieval-village-megakit",
+  "name": "Medieval Village Megakit",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/medieval-village-megakit",
+  "url": "https://opengameart.org/sites/default/files/medieval_village_megakitstandard.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-modular-sci-fi-megakit",
+  "name": "Modular Sci Fi Megakit",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/modular-sci-fi-megakit",
+  "url": "https://opengameart.org/sites/default/files/modular_scifi_megakitstandard.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-sci-fi-essentials-kit",
+  "name": "Sci Fi Essentials Kit",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/sci-fi-essentials-kit",
+  "url": "https://opengameart.org/sites/default/files/sci-fi_essentials_kit_models.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-sci-fi-essentials-kit-2",
+  "name": "Sci Fi Essentials Kit",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/sci-fi-essentials-kit",
+  "url": "https://opengameart.org/sites/default/files/sci-fi_essentials_kit_textures.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-stylized-nature-megakit",
+  "name": "Stylized Nature Megakit",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/stylized-nature-megakit",
+  "url": "https://opengameart.org/sites/default/files/stylized_nature_megakitstandard.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "quaternius-textured-cute-monster-pack",
+  "name": "Textured Cute Monster Pack",
+  "author": "Quaternius",
+  "page": "https://opengameart.org/content/textured-cute-monster-pack",
+  "url": "https://opengameart.org/sites/default/files/cute_animated_monsters_-_aug_2020.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kaykit-dungeon-pack",
+  "name": "KayKit Dungeon Pack",
+  "author": "KayKit (Kay Lousberg)",
+  "page": "https://opengameart.org/content/kaykit-dungeon-pack-10",
+  "url": "https://opengameart.org/sites/default/files/kaykit_dungeon_pack_1.0.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kaykit-medieval-builder-pack",
+  "name": "KayKit Medieval Builder Pack",
+  "author": "KayKit (Kay Lousberg)",
+  "page": "https://opengameart.org/content/kaykit-medieval-builder-pack-10",
+  "url": "https://opengameart.org/sites/default/files/kaykit_medieval_builder_pack_1.0.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kaykit-mini-game-variety-pack",
+  "name": "KayKit Mini Game Variety Pack",
+  "author": "KayKit (Kay Lousberg)",
+  "page": "https://opengameart.org/content/kaykit-mini-game-variety-pack-12",
+  "url": "https://opengameart.org/sites/default/files/kaykit_mini-game_variety_pack_1.2.zip",
+  "license": "CC0"
+ },
+ {
+  "id": "kaykit-spooktober-seasonal-pack",
+  "name": "KayKit Spooktober Seasonal Pack",
+  "author": "KayKit (Kay Lousberg)",
+  "page": "https://opengameart.org/content/kaykit-spooktober-seasonal-pack-11",
+  "url": "https://opengameart.org/sites/default/files/kaykit_spooktober_seasonal_pack_1.1.zip",
+  "license": "CC0"
+ }
+]
