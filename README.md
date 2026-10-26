@@ -1,10 +1,10 @@
-# VidMate 3D model library
+# Kinetale 3D model library
 
-Free 3D models used by the VidMate Studio plugin for Claude Code: **105 packs, 7,415 models**, all
+Free 3D models used by the Kinetale plugin for Claude Code: **105 packs, 7,415 models**, all
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) (public domain: free for any use, including monetised
 videos, no credit required).
 
-The files are in this repository's [releases](https://github.com/BAMOUMOHAMED/vidmate-library/releases). The plugin
+The files are in this repository's [releases](https://github.com/BAMOUMOHAMED/kinetale-library/releases). The plugin
 downloads them on first use; you don't need to download anything by hand.
 
 | Maker | Packs | Where the originals are |
